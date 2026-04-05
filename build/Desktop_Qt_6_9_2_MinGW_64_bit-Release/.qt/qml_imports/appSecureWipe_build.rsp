@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy
+-cmake-output
+-output-file
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/.qt/qml_imports/appSecureWipe_build.cmake
+-importPath
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/com/securewipe/backend
+-importPath
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release
+-importPath
+C:/Users/Deepayan/Downloads/qt-framework-and-design/6.9.2/mingw_64/qml
+-qrcFiles
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/.qt/rcc/qmake_com_securewipe_backend.qrc
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/.qt/rcc/appSecureWipe_raw_qml_0.qrc

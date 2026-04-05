@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/LandingPage.qml</file>
+        <file>qml/DriveSelectionPage.qml</file>
+        <file>qml/WipeProgressPage.qml</file>
+        <file>qml/CompletionPage.qml</file>
+        <file>qml/CertificatesPage.qml</file>
+        <file>qml/Main.qml</file>
+    </qresource>
+</RCC>

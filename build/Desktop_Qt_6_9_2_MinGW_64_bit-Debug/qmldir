@@ -1,0 +1,13 @@
+module com.securewipe.backend
+linktarget SecureWipeBackendplugin
+optional plugin SecureWipeBackendplugin
+classname com_securewipe_backendPlugin
+typeinfo SecureWipeBackend.qmltypes
+prefer :/com/securewipe/backend/
+Main 1.0 qml/Main.qml
+LandingPage 1.0 qml/LandingPage.qml
+DriveSelectionPage 1.0 qml/DriveSelectionPage.qml
+WipeProgressPage 1.0 qml/WipeProgressPage.qml
+CompletionPage 1.0 qml/CompletionPage.qml
+CertificatesPage 1.0 qml/CertificatesPage.qml
+

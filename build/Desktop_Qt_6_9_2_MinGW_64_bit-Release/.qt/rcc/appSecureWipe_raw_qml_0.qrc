@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/com/securewipe/backend/">
+    <file alias="qml/Main.qml">C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/Main.qml</file>
+    <file alias="qml/LandingPage.qml">C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/LandingPage.qml</file>
+    <file alias="qml/DriveSelectionPage.qml">C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/DriveSelectionPage.qml</file>
+    <file alias="qml/WipeProgressPage.qml">C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/WipeProgressPage.qml</file>
+    <file alias="qml/CompletionPage.qml">C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/CompletionPage.qml</file>
+    <file alias="qml/CertificatesPage.qml">C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/CertificatesPage.qml</file>
+    <file alias=".gitignore">C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/.gitignore</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,1 @@
+--foreign-types=C:/Users/Deepayan/Downloads/qt-framework-and-design/6.9.2/mingw_64/./metatypes/qt6qml_relwithdebinfo_metatypes.json,C:/Users/Deepayan/Downloads/qt-framework-and-design/6.9.2/mingw_64/./metatypes/qt6core_relwithdebinfo_metatypes.json,C:/Users/Deepayan/Downloads/qt-framework-and-design/6.9.2/mingw_64/./metatypes/qt6network_relwithdebinfo_metatypes.json

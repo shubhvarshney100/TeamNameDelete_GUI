@@ -1,0 +1,10 @@
+--resource
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/qmake_com_securewipe_backend.qrc
+--resource
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/appSecureWipe_raw_qml_0.qrc
+/com/securewipe/backend/qml/Main.qml
+/com/securewipe/backend/qml/LandingPage.qml
+/com/securewipe/backend/qml/DriveSelectionPage.qml
+/com/securewipe/backend/qml/WipeProgressPage.qml
+/com/securewipe/backend/qml/CompletionPage.qml
+/com/securewipe/backend/qml/CertificatesPage.qml

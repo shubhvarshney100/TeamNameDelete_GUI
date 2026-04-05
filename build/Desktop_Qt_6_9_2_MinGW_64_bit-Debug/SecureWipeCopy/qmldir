@@ -1,0 +1,6 @@
+module SecureWipeCopy
+typeinfo appSecureWipeCopy.qmltypes
+prefer :/qt/qml/SecureWipeCopy/
+Main 1.0 qml/Main.qml
+depends QtQuick
+

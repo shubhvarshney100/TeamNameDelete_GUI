@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SecureWipe",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Release-27222b9d78d261f780e2.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Release-ca29dca17b00b8b47189.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Release-e24bbc0f03122e49b33b.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Release-47a3a8da514ba92fcabb.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Release-61f555f4a89e219ba80f.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecureWipe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecureWipe-Release-905eafe68a0bb286c796.json",
+					"name" : "appSecureWipe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecureWipe_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecureWipe_autogen-Release-f1f61e8e070477d4c721.json",
+					"name" : "appSecureWipe_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecureWipe_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecureWipe_autogen_timestamp_deps-Release-ad4b0565ec3e9097c63f.json",
+					"name" : "appSecureWipe_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecureWipe_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecureWipe_copy_qml-Release-8a0cf6bfb077f063563f.json",
+					"name" : "appSecureWipe_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecureWipe_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecureWipe_copy_res-Release-e593e9bd9629680c7e45.json",
+					"name" : "appSecureWipe_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecureWipe_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecureWipe_qmlimportscan-Release-0a1dc0ed939263b6af10.json",
+					"name" : "appSecureWipe_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecureWipe_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecureWipe_qmllint-Release-836cc04d7f0b18945a8d.json",
+					"name" : "appSecureWipe_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecureWipe_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecureWipe_qmllint_json-Release-dcdc60398427718f4967.json",
+					"name" : "appSecureWipe_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecureWipe_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecureWipe_qmllint_module-Release-778d1fcd4e9faa974237.json",
+					"name" : "appSecureWipe_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecureWipe_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecureWipe_qmltyperegistration-Release-17b290b666f141c4bedb.json",
+					"name" : "appSecureWipe_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appSecureWipe_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appSecureWipe_aotstats_target-Release-cdc7549a11058fcd78b1.json",
+					"name" : "module_appSecureWipe_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release",
+		"source" : "C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/appSecureWipe_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/appSecureWipe_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/Main.qml",
+		"C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/CertificatesPage.qml",
+		"C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/LandingPage.qml",
+		"C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/CompletionPage.qml",
+		"C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/WipeProgressPage.qml",
+		"C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/DriveSelectionPage.qml"
+	],
+	"LOCK_FILE" : "C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/CMakeFiles/appSecureWipe_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Users/Deepayan/Downloads/qt-framework-and-design/6.9.2/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/CMakeFiles/appSecureWipe_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

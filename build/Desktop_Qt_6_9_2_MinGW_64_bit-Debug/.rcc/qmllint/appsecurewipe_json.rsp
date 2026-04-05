@@ -1,0 +1,17 @@
+--bare
+-I
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug
+-I
+C:/Users/Deepayan/Downloads/qt-framework-and-design/6.9.2/mingw_64/qml
+--resource
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/qmake_com_securewipe_backend.qrc
+--resource
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/appSecureWipe_raw_qml_0.qrc
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/Main.qml
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/LandingPage.qml
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/DriveSelectionPage.qml
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/WipeProgressPage.qml
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/CompletionPage.qml
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/CertificatesPage.qml
+--json
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/appSecureWipe_qmllint.json

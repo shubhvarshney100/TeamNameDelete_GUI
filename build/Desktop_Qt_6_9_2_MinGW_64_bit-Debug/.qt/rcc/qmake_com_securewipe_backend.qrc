@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/com/securewipe/backend">
+    <file alias="qmldir">C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/com/securewipe/backend/qmldir</file>
+  </qresource>
+</RCC>
+

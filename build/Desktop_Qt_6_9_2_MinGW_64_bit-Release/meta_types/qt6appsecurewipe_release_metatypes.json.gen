@@ -1,0 +1,146 @@
+[
+    {
+        "classes": [
+            {
+                "className": "DriveManager",
+                "lineNumber": 11,
+                "methods": [
+                    {
+                        "access": "public",
+                        "index": 4,
+                        "name": "refreshDrives",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "drives",
+                                "type": "QVariantList"
+                            }
+                        ],
+                        "index": 5,
+                        "name": "startWipeProcess",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 6,
+                        "name": "downloadCertificate",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 7,
+                        "name": "deleteCertificate",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 8,
+                        "name": "refreshCertificates",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "driveModel",
+                        "notify": "driveModelChanged",
+                        "read": "driveModel",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QVariantList",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "certificateModel",
+                        "notify": "certificateModelChanged",
+                        "read": "certificateModel",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QVariantList",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "DriveManager",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "driveModelChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "name": "certificateModelChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "progress",
+                                "type": "int"
+                            },
+                            {
+                                "name": "remainingSize",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "remainingTime",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 2,
+                        "name": "wipeProgressUpdated",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "details",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 3,
+                        "name": "wipeCompleted",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "drivemanager.h",
+        "outputRevision": 69
+    }
+]

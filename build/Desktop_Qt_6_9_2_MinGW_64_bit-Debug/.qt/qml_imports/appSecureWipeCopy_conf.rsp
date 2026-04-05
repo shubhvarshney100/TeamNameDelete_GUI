@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy
+-cmake-output
+-output-file
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/qml_imports/appSecureWipeCopy_conf.cmake
+-importPath
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/SecureWipeCopy
+-importPath
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug
+-importPath
+C:/Users/Deepayan/Downloads/qt-framework-and-design/6.9.2/mingw_64/qml
+-qrcFiles
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/qmake_SecureWipeCopy.qrc
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/appSecureWipeCopy_raw_qml_0.qrc
+C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/appSecureWipeCopy_raw_qml_0_extra_qmldirs.qrc

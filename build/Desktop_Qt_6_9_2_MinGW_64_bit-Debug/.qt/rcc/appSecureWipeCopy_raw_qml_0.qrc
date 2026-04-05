@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/SecureWipeCopy/">
+    <file alias="qml/Main.qml">C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml/Main.qml</file>
+    <file alias="qml.qrc">C:/Users/Deepayan/Documents/MAVERICK/projects/qT/SecureWipeCopy/qml.qrc</file>
+  </qresource>
+</RCC>
+
